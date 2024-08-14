@@ -1,0 +1,14 @@
+h3 {
+  color: white;
+}
+
+h3 {
+  text-align: left;
+}
+
+.galeria {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

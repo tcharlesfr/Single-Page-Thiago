@@ -1,4 +1,5 @@
 .App {
+  z-index: 1;
   text-align: center;
 }
 
@@ -14,7 +15,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #0e0057;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +36,44 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.text {
+  text-align: left;
+}
+
+
+body{
+  background-color: blue;
+  background-image: url("../src/componentes/public/tramandai-rs-40.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  
+}
+.gl{
+  background-image: url("../src/componentes/public/tramandai-rs-40.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.leis{
+  background-image: url("../src/componentes/public/tdai-degrade-40.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.post_card_image {
+    background-size: cover;
+    background-position: center;
+    height: 225px;
+    width: 100%;
+    margin-bottom: 1.2em;
+}
+img{
+  transition: 0.3s;
+}
+
+img:hover{
+  scale: 1.05;
+  transition: 0.3s;
 }

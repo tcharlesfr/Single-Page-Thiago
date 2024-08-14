@@ -1,0 +1,16 @@
+.galeria img{
+    width: 30vh;
+    margin: 10px;
+    border-radius: 5%;
+}
+
+.galeria{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.galeria p,h1{
+    color: white;
+}
