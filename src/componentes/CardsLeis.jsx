@@ -11,7 +11,7 @@ export default function CardsLeis() {
     <div className="row justify-content-center mt-5 rounded ">
     <h1 className="text mt-5 mb-5 " style={{'color':'white'}}>Leis criadas</h1>
       
-      <div className="col-10 col-md-4 ">
+      <div className="col-10 col-md-4 tituloLei">
         <Card
           titulo={"Adote uma parada de ônibus"}
           descricao={"Tem por finalidade celebrar termo de cooperação com pessoas físicas ou jurídicas de direito público ou privado, para implementação, melhoria e conservação de pontos de ônibus no Município de Tramandaí"}

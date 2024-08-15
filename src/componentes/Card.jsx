@@ -24,8 +24,7 @@ function Cards() {
             <h4 className="text" style={{ color: "white" }}>
               Foram mais de <b>R$ 2 milhões</b> em emendas parlamentares, mais
               de <b>R$ 2,4 milhões</b> em emendas impositivas de bancada e mais
-              de <b>R$ 700 mil</b>
-              pessoal. Este dinheiro foi muito importante para o desenvolvimento
+              de <b>R$ 700 mil</b> em emendas impositivas pessoais. Este dinheiro foi muito importante para o desenvolvimento
               do município.
             </h4>
             <br></br>

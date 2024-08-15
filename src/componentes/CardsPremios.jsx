@@ -41,8 +41,8 @@ export default function CardPremios() {
       </div>
       <div className="col-6 col-md-4">
         <CardPremio
-          empresa={"Vereador Destaque"}
-          texto={"Daniel Gomes Pereira"}
+          texto={"Vereador Destaque"}
+          empresa={"Daniel Gomes Pereira"}
           ano={"2023"}
         ></CardPremio>
       </div>

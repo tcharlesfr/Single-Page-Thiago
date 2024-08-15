@@ -77,3 +77,10 @@ img:hover{
   scale: 1.05;
   transition: 0.3s;
 }
+
+.tituloLei{
+  /* text-align: center; */
+  vertical-align: middle;
+  max-height: 120px;
+  color: #0e0057;
+}

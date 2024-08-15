@@ -50,7 +50,7 @@ export default function LinhaAtuacao() {
         <div className="galeria container mt-5">
           <div className="">
             <img src={f1} alt="" />
-            <p>Av. Perimetral</p>
+            <p>Asfalto na Av. Perimetral</p>
           </div>
 
           <div className="">
@@ -60,11 +60,11 @@ export default function LinhaAtuacao() {
 
           <div>
             <img src={f3} alt="" />
-            <p>Playground</p>
+            <p>Playground na Praça do Jardim Atlântico</p>
           </div>
           <div>
             <img src={f4} alt="" />
-            <p>PVS</p>
+            <p>PVS - R. Mato Grosso</p>
           </div>
         </div>
         </Col>
