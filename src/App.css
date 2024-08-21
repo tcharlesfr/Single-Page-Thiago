@@ -12,6 +12,9 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+  p{
+    margin: 0 20px;
+  }
 }
 
 .App-header {
