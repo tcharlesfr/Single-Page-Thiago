@@ -60,7 +60,7 @@ export default function LinhaAtuacao() {
 
           <div>
             <img src={f3} alt="" />
-            <p>Playground na Praça do Jardim Atlântico</p>
+            <p>Playground em Praça</p>
           </div>
           <div>
             <img src={f4} alt="" />
