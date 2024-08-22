@@ -1,9 +1,9 @@
-
 export default function Foot() {
   return (
     <footer class="bg-body-tertiary text-center pb-5">
-      <div class="container p-4 pb-0" >
-        <section class="mb-2" >
+      <div class="container p-4 pb-0">
+        <p>Fique por dentro das novidades nas redes sociais</p>
+        <section class="mb-2">
           <a
             data-mdb-ripple-init
             class="btn text-white btn-floating m-1"
@@ -98,10 +98,16 @@ export default function Foot() {
       </div>
 
       <div class="text-center p-3">
-        © 2024 Copyright:
-        <a class="text-body" href="https://mdbootstrap.com/">
-          ThiagoLopes.com
-        </a>
+        <p>
+          Site desenvolvido por { }
+          <a
+            class="text-body"
+            href="https://www.instagram.com/djcharlief/?hl=pt-br"
+            style={{ color: "blue", "font-size": "15px" }}
+          >
+            Tcharles Fernando
+          </a>
+        </p>
       </div>
     </footer>
   );
